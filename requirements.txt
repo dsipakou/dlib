@@ -37,5 +37,5 @@ six==1.13.0
 sqlparse==0.3.0
 tomlkit==0.5.8
 uritemplate==3.0.0
-urllib3==1.25.7
+urllib3==1.25.8
 webencodings==0.5.1
